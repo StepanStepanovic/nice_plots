@@ -30,8 +30,8 @@ These are the minimal requirements needed to run the visualizations and reproduc
 
 1. **Clone the repository**  
    ```bash
-   git clone https://github.com/yourusername/your-repo-name.git
-   cd your-repo-name ```
+   git clone https://github.com/StepanStepanovic/nice_plots.git
+   cd nice_plots ```
 
 2. **Create and activate the environment**  
    ```
