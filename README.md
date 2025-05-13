@@ -59,7 +59,7 @@ These are the minimal requirements needed to run the visualizations and reproduc
 
 If you use this repository in your work, please cite the original manuscript:
 
-> Zivojinovic, O., et al. *Insights into Modifiers Effects in Differential Mobility Spectrometry: A Data Science Approach for Metabolomics and Peptidomics.*  
+> Stepanovic, S., et al. *Insights into Modifiers Effects in Differential Mobility Spectrometry: A Data Science Approach for Metabolomics and Peptidomics.*  
 > Journal of Mass Spectrometry, 2024.  
 > [https://doi.org/10.1002/jms.5039](https://doi.org/10.1002/jms.5039)
 
